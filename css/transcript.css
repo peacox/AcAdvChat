@@ -1,0 +1,32 @@
+/*
+** Stylesheet for printing AcAdv Chat trancripts.
+** Created by Paul Cox, based loosely on free software from Bill Weinman - http://bw.org/
+**
+*/
+
+body, #content {
+	color: black;
+    font-family: georgia, serif;
+	font-size: 12pt;
+	width: 100%;
+	margin: 0;
+    background-color: white;
+    padding: 0;
+    border: 0;
+}
+
+#wrapper {
+	background-color: white;
+	border: none;
+	font-size: 1em;		
+	margin: 0 .25in 0 0;
+	padding: 0;
+	width: 100%;
+}
+
+h2 {
+    margin-top: .5em;
+    font-family: Lucida Grande, Lucida Sans Unicode, sans-serif;
+    line-height: 1.7em;
+    color: #006;
+}

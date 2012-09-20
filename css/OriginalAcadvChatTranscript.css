@@ -1,0 +1,84 @@
+/*
+**
+** Style sheet for #Acadv Chat, based on:
+**
+** MediaWiki 'microblink' style sheet for CSS2-capable browsers.
+** Adapted from the 'monobook' style
+** 	 Copyright Gabriel Wicke - http://wikidev.net/
+**   License: GPL (http://www.gnu.org/copyleft/gpl.html)
+*/
+
+body {
+	background-color: #DDDDDD;
+	color: black;
+	font: x-small sans-serif;
+/*	font-style: italic;  */
+	margin: 0 auto;
+	padding: 0;
+}
+
+
+#globalWrapper {
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	font-size: 127%;			/* scale back up to a sane default */
+	margin: 10px auto;
+	padding:0 15px;
+	width: 960px;
+}
+
+/* general styles */
+
+table {
+	background-color: #FFFFFF;
+	font-size: 100%;
+	color: #000000;
+}
+
+a {
+	background: none;
+	color: #002BB8;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+a:active { color: #FAA700; }
+a:hover { text-decoration: underline; }
+
+p {
+	line-height: 1.5em;
+	margin: .4em 0 .5em 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	background: none;
+	border-bottom: 1px solid #AAAAAA;
+	color: #000000;
+	font-weight: normal;
+	margin: 0;
+	padding-top: .5em;
+	padding-bottom: .17em;
+}
+
+h1 { font-size: 188%; }
+h2 { font-size: 150%; }
+h3 { font-size: 132%; }
+h4 { font-size: 116%; }
+h5 { font-size: 100%; }
+h6 { font-size: 80%; }
+
+h3, h4, h5, h6 {
+	border-bottom: none;
+	font-weight: bold;
+}
+
+#footer {
+	background-color: #F7F7F7;
+	border:1px solid  #DDDDDD;
+	color: #666666;
+	height: 35px;
+	line-height: 35px;
+	margin: 17px 0 13px 0;
+	padding: 0 15px;
+	width: 929px;
+}

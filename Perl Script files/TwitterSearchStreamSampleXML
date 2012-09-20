@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/" xmlns:georss="http://www.georss.org/georss" xml:lang="en-US">
+	<id>tag:search.twitter.com,2005:search/#acadv</id>
+	<link type="text/html" href="http://search.twitter.com/search?q=%23acadv" rel="alternate"/>
+	<link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=%23acadv" rel="self"/>
+	<title>#acadv - Twitter Search</title>
+	<link type="application/opensearchdescription+xml" href="http://twitter.com/opensearch.xml" rel="search"/>
+	<link type="application/atom+xml" href="http://search.twitter.com/search.atom?since_id=123164379272323074&amp;q=%23acadv" rel="refresh"/>
+	<updated>2011-10-09T22:34:10Z</updated>
+	<openSearch:itemsPerPage>15</openSearch:itemsPerPage>
+	<link type="application/atom+xml" href="http://search.twitter.com/search.atom?page=2&amp;max_id=123164379272323074&amp;q=%23acadv" rel="next"/>
+	<entry>
+		<id>tag:search.twitter.com,2005:123164379272323074</id>
+		<published>2011-10-09T22:34:10Z</published>
+		<link type="text/html" href="http://twitter.com/matt_rupert/statuses/123164379272323074" rel="alternate"/>
+		<title>Going for a run before it gets dark. This is one aspect of fall I don't like...getting dark early. Very glad I'm an evening adviser! #AcAdv</title>
+		<content type="html">Going for a run before it gets dark. This is one aspect of fall I don't like...getting dark early. Very glad I'm an evening adviser! &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt;</content>
+		<updated>2011-10-09T22:34:10Z</updated>
+		<link type="image/png" href="http://a2.twimg.com/profile_images/1239724786/49302_706718799_1733847_q_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://twitter.com/#!/download/iphone" rel="nofollow"&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>matt_rupert (Matthew Rupert)</name>
+			<uri>http://twitter.com/matt_rupert</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122870336902545409</id>
+		<published>2011-10-09T03:05:45Z</published>
+		<link type="text/html" href="http://twitter.com/AutumnAyers/statuses/122870336902545409" rel="alternate"/>
+		<title>RT @amerikag: RT @AcAdvChat: Back from #NACADA11 &amp; poll is out for the #AcAdv Chat on Tues (10/11) 12-1 pm CST. http://t.co/c3UbrBQB</title>
+		<content type="html">RT @&lt;a class=" " href="http://twitter.com/amerikag"&gt;amerikag&lt;/a&gt;: RT @&lt;a class=" " href="http://twitter.com/AcAdvChat"&gt;AcAdvChat&lt;/a&gt;: Back from &lt;a href="http://search.twitter.com/search?q=%23NACADA11" title="#NACADA11" class=" "&gt;#NACADA11&lt;/a&gt; &amp; poll is out for the &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt; Chat on Tues (10/11) 12-1 pm CST. &lt;a href="http://t.co/c3UbrBQB"&gt;http://t.co/c3UbrBQB&lt;/a&gt;</content>
+		<updated>2011-10-09T03:05:45Z</updated>
+		<link type="image/png" href="http://a2.twimg.com/profile_images/1483710797/Clipboard03_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://twitter.com/download/android" rel="nofollow"&gt;Twitter for Android&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>AutumnAyers (Autumn Ayers)</name>
+			<uri>http://twitter.com/AutumnAyers</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122856595993542656</id>
+		<published>2011-10-09T02:11:09Z</published>
+		<link type="text/html" href="http://twitter.com/amerikag/statuses/122856595993542656" rel="alternate"/>
+		<title>RT @AcAdvChat: Back from #NACADA11 &amp; poll is out for the #AcAdv Chat on Tues (10/11) 12-1 pm CST. http://t.co/c3UbrBQB</title>
+		<content type="html">RT @&lt;a class=" " href="http://twitter.com/AcAdvChat"&gt;AcAdvChat&lt;/a&gt;: Back from &lt;a href="http://search.twitter.com/search?q=%23NACADA11" title="#NACADA11" class=" "&gt;#NACADA11&lt;/a&gt; &amp; poll is out for the &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt; Chat on Tues (10/11) 12-1 pm CST. &lt;a href="http://t.co/c3UbrBQB"&gt;http://t.co/c3UbrBQB&lt;/a&gt;</content>
+		<updated>2011-10-09T02:11:09Z</updated>
+		<link type="image/png" href="http://a2.twimg.com/profile_images/1477558449/sandbar_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://twitter.com/download/android" rel="nofollow"&gt;Twitter for Android&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>amerikag (Amerika)</name>
+			<uri>http://twitter.com/amerikag</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122854378049777665</id>
+		<published>2011-10-09T02:02:20Z</published>
+		<link type="text/html" href="http://twitter.com/UOAdvDir/statuses/122854378049777665" rel="alternate"/>
+		<title>Don't forget - vote! RT @AcAdvChat: Back from #NACADA11 &amp; poll is out for the #AcAdv Chat on Tues (10/11) 12-1 pm CST. http://t.co/DIAXXop4</title>
+		<content type="html">Don't forget - vote! RT @&lt;a class=" " href="http://twitter.com/AcAdvChat"&gt;AcAdvChat&lt;/a&gt;: Back from &lt;a href="http://search.twitter.com/search?q=%23NACADA11" title="#NACADA11" class=" "&gt;#NACADA11&lt;/a&gt; &amp; poll is out for the &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt; Chat on Tues (10/11) 12-1 pm CST. &lt;a href="http://t.co/DIAXXop4"&gt;http://t.co/DIAXXop4&lt;/a&gt;</content>
+		<updated>2011-10-09T02:02:20Z</updated>
+		<link type="image/png" href="http://a3.twimg.com/profile_images/1172640291/Joslin_Photo_2_NACADA_normal.JPG" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://www.hootsuite.com" rel="nofollow"&gt;HootSuite&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>UOAdvDir (Jennifer Joslin)</name>
+			<uri>http://twitter.com/UOAdvDir</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122852145178492928</id>
+		<published>2011-10-09T01:53:28Z</published>
+		<link type="text/html" href="http://twitter.com/howardsj/statuses/122852145178492928" rel="alternate"/>
+		<title>RT @judithasuzu: How do you reach students who are only enrolled to develop marketable skills rather than critical-thinking skills? http://j.mp/ngAkAY #AcAdv</title>
+		<content type="html">RT @&lt;a class=" " href="http://twitter.com/judithasuzu"&gt;judithasuzu&lt;/a&gt;: How do you reach students who are only enrolled to develop marketable skills rather than critical-thinking skills? &lt;a href="http://j.mp/ngAkAY"&gt;http://j.mp/ngAkAY&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt;</content>
+		<updated>2011-10-09T01:53:28Z</updated>
+		<link type="image/png" href="http://a1.twimg.com/profile_images/1551484004/298815_575118745852_59100108_32048586_1446812_n_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://www.tweetdeck.com" rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>howardsj (Sarah Howard)</name>
+			<uri>http://twitter.com/howardsj</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122850798819487744</id>
+		<published>2011-10-09T01:48:07Z</published>
+		<link type="text/html" href="http://twitter.com/howardsj/statuses/122850798819487744" rel="alternate"/>
+		<title>RT @peacox: Several study #protips in here I've been giving 2 stdnts 4 years | http://n.pr/qPibQ6 Additional info in audio. #acadv</title>
+		<content type="html">RT @&lt;a class=" " href="http://twitter.com/peacox"&gt;peacox&lt;/a&gt;: Several study &lt;a href="http://search.twitter.com/search?q=%23protips" title="#protips" class=" "&gt;#protips&lt;/a&gt; in here I've been giving 2 stdnts 4 years | &lt;a href="http://n.pr/qPibQ6"&gt;http://n.pr/qPibQ6&lt;/a&gt; Additional info in audio. &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23acadv" title="#acadv" class=" "&gt;#acadv&lt;/a&gt;&lt;/em&gt;</content>
+		<updated>2011-10-09T01:48:07Z</updated>
+		<link type="image/png" href="http://a1.twimg.com/profile_images/1551484004/298815_575118745852_59100108_32048586_1446812_n_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://twitterrific.com" rel="nofollow"&gt;Twitterrific for Mac&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>howardsj (Sarah Howard)</name>
+			<uri>http://twitter.com/howardsj</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122850361395523584</id>
+		<published>2011-10-09T01:46:23Z</published>
+		<link type="text/html" href="http://twitter.com/howardsj/statuses/122850361395523584" rel="alternate"/>
+		<title>RT @NACADA: It Gets Better @NACADA Channel http://t.co/9Nb5v5C1 #AcAdv from #NACADA11 [Add YOUR Video to the channel]</title>
+		<content type="html">RT @&lt;a class=" " href="http://twitter.com/NACADA"&gt;NACADA&lt;/a&gt;: It Gets Better @&lt;a class=" " href="http://twitter.com/NACADA"&gt;NACADA&lt;/a&gt; Channel &lt;a href="http://t.co/9Nb5v5C1"&gt;http://t.co/9Nb5v5C1&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt; from &lt;a href="http://search.twitter.com/search?q=%23NACADA11" title="#NACADA11" class=" "&gt;#NACADA11&lt;/a&gt; [Add YOUR Video to the channel]</content>
+		<updated>2011-10-09T01:46:23Z</updated>
+		<link type="image/png" href="http://a1.twimg.com/profile_images/1551484004/298815_575118745852_59100108_32048586_1446812_n_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://cotweet.com/?utm_source=sp1" rel="nofollow"&gt;CoTweet&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>howardsj (Sarah Howard)</name>
+			<uri>http://twitter.com/howardsj</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122850247780212736</id>
+		<published>2011-10-09T01:45:56Z</published>
+		<link type="text/html" href="http://twitter.com/howardsj/statuses/122850247780212736" rel="alternate"/>
+		<title>RT @AcAdvChat: Miss me? I'm back from #NACADA11 &amp; ready to put the poll out for the #AcAdv Chat on Tues (10/11)  12-1 pm CST. http://t.co/pruHObJf</title>
+		<content type="html">RT @&lt;a class=" " href="http://twitter.com/AcAdvChat"&gt;AcAdvChat&lt;/a&gt;: Miss me? I'm back from &lt;a href="http://search.twitter.com/search?q=%23NACADA11" title="#NACADA11" class=" "&gt;#NACADA11&lt;/a&gt; &amp; ready to put the poll out for the &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt; Chat on Tues (10/11)  12-1 pm CST. &lt;a href="http://t.co/pruHObJf"&gt;http://t.co/pruHObJf&lt;/a&gt;</content>
+		<updated>2011-10-09T01:45:56Z</updated>
+		<link type="image/png" href="http://a1.twimg.com/profile_images/1551484004/298815_575118745852_59100108_32048586_1446812_n_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://twtpoll.com" rel="nofollow"&gt;Twtpoll by Twtapps&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>howardsj (Sarah Howard)</name>
+			<uri>http://twitter.com/howardsj</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122751657229557760</id>
+		<published>2011-10-08T19:14:10Z</published>
+		<link type="text/html" href="http://twitter.com/lizgordon286/statuses/122751657229557760" rel="alternate"/>
+		<title>Holding open #AcAdv hours, grading papers, and listening to the live feed of the Ironman. #Saturdays</title>
+		<content type="html">Holding open &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt; hours, grading papers, and listening to the live feed of the Ironman. &lt;a href="http://search.twitter.com/search?q=%23Saturdays" title="#Saturdays" class=" "&gt;#Saturdays&lt;/a&gt;</content>
+		<updated>2011-10-08T19:14:10Z</updated>
+		<link type="image/png" href="http://a2.twimg.com/profile_images/1543305609/Twitter_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>lizgordon286 (Liz Gordon)</name>
+			<uri>http://twitter.com/lizgordon286</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122734883402547200</id>
+		<published>2011-10-08T18:07:31Z</published>
+		<link type="text/html" href="http://twitter.com/peacox/statuses/122734883402547200" rel="alternate"/>
+		<title>Several study #protips in here I've been giving 2 stdnts 4 years | http://n.pr/qPibQ6 Additional info in audio. #acadv</title>
+		<content type="html">Several study &lt;a href="http://search.twitter.com/search?q=%23protips" title="#protips" class=" "&gt;#protips&lt;/a&gt; in here I've been giving 2 stdnts 4 years | &lt;a href="http://n.pr/qPibQ6"&gt;http://n.pr/qPibQ6&lt;/a&gt; Additional info in audio. &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23acadv" title="#acadv" class=" "&gt;#acadv&lt;/a&gt;&lt;/em&gt;</content>
+		<updated>2011-10-08T18:07:31Z</updated>
+		<link type="image/png" href="http://a1.twimg.com/profile_images/1149434861/Twitter_Profile_Pic_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://twitterrific.com" rel="nofollow"&gt;Twitterrific for Mac&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>peacox (Paul Cox)</name>
+			<uri>http://twitter.com/peacox</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122710876972253184</id>
+		<published>2011-10-08T16:32:07Z</published>
+		<link type="text/html" href="http://twitter.com/jefvirginia/statuses/122710876972253184" rel="alternate"/>
+		<title>Had a great time meeting lots of new advising colleagues at OSU's New Advisor Retreat yesterday. #AcAdv</title>
+		<content type="html">Had a great time meeting lots of new advising colleagues at OSU's New Advisor Retreat yesterday. &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt;</content>
+		<updated>2011-10-08T16:32:07Z</updated>
+		<link type="image/png" href="http://a1.twimg.com/profile_images/1125143068/JR2_normal.JPG" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>jefvirginia (Jeff Malone)</name>
+			<uri>http://twitter.com/jefvirginia</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122688283418435584</id>
+		<published>2011-10-08T15:02:20Z</published>
+		<link type="text/html" href="http://twitter.com/laurapasquini/statuses/122688283418435584" rel="alternate"/>
+		<title>@dawntraynor Did you sign up for the @NACADA Tech in Advising Commission? http://t.co/ScOkWgiA We'll connect online soon. #AdvTech #AcAdv</title>
+		<content type="html">@&lt;a class=" " href="http://twitter.com/dawntraynor"&gt;dawntraynor&lt;/a&gt; Did you sign up for the @&lt;a class=" " href="http://twitter.com/NACADA"&gt;NACADA&lt;/a&gt; Tech in Advising Commission? &lt;a href="http://t.co/ScOkWgiA"&gt;http://t.co/ScOkWgiA&lt;/a&gt; We'll connect online soon. &lt;a href="http://search.twitter.com/search?q=%23AdvTech" title="#AdvTech" class=" "&gt;#AdvTech&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt;</content>
+		<updated>2011-10-08T15:02:20Z</updated>
+		<link type="image/png" href="http://a2.twimg.com/profile_images/1561242146/Laura_Pasquini_Photo_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://www.hootsuite.com" rel="nofollow"&gt;HootSuite&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>laurapasquini (Laura Pasquini)</name>
+			<uri>http://twitter.com/laurapasquini</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122671597298528256</id>
+		<published>2011-10-08T13:56:02Z</published>
+		<link type="text/html" href="http://twitter.com/judithasuzu/statuses/122671597298528256" rel="alternate"/>
+		<title>Why Some of Us Don’t Have One True Calling (And Why We’re Better Off that Way) bit.ly/rayYzZ #acadv (via @laurapasquini, @emilyteresapack)</title>
+		<content type="html">Why Some of Us Don’t Have One True Calling (And Why We’re Better Off that Way) bit.ly/rayYzZ &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23acadv" title="#acadv" class=" "&gt;#acadv&lt;/a&gt;&lt;/em&gt; (via @&lt;a class=" " href="http://twitter.com/laurapasquini"&gt;laurapasquini&lt;/a&gt;, @&lt;a class=" " href="http://twitter.com/emilyteresapack"&gt;emilyteresapack&lt;/a&gt;)</content>
+		<updated>2011-10-08T13:56:02Z</updated>
+		<link type="image/png" href="http://a1.twimg.com/profile_images/1518010424/photo_1_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://www.tweetdeck.com" rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>judithasuzu (Judith Asuzu)</name>
+			<uri>http://twitter.com/judithasuzu</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122663701248610304</id>
+		<published>2011-10-08T13:24:40Z</published>
+		<link type="text/html" href="http://twitter.com/judithasuzu/statuses/122663701248610304" rel="alternate"/>
+		<title>RT @DebraSanborn Grad student mentors help undergrads get the most out of @UCLA  http://j.mp/qygHdH #highered #msachat #AcAdv</title>
+		<content type="html">RT @&lt;a class=" " href="http://twitter.com/DebraSanborn"&gt;DebraSanborn&lt;/a&gt; Grad student mentors help undergrads get the most out of @&lt;a class=" " href="http://twitter.com/UCLA"&gt;UCLA&lt;/a&gt;  &lt;a href="http://j.mp/qygHdH"&gt;http://j.mp/qygHdH&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23highered" title="#highered" class=" "&gt;#highered&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23msachat" title="#msachat" class=" "&gt;#msachat&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt;</content>
+		<updated>2011-10-08T13:24:40Z</updated>
+		<link type="image/png" href="http://a1.twimg.com/profile_images/1518010424/photo_1_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://www.tweetdeck.com" rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>judithasuzu (Judith Asuzu)</name>
+			<uri>http://twitter.com/judithasuzu</uri>
+		</author>
+	</entry>
+	<entry>
+		<id>tag:search.twitter.com,2005:122478544554172417</id>
+		<published>2011-10-08T01:08:55Z</published>
+		<link type="text/html" href="http://twitter.com/laurapasquini/statuses/122478544554172417" rel="alternate"/>
+		<title>Advisory Groups to Encourage Collaboration: A Case Study @EDUCAUSE Quarterly http://t.co/iBMNNHjd #AcAdv</title>
+		<content type="html">Advisory Groups to Encourage Collaboration: A Case Study @&lt;a class=" " href="http://twitter.com/EDUCAUSE"&gt;EDUCAUSE&lt;/a&gt; Quarterly &lt;a href="http://t.co/iBMNNHjd"&gt;http://t.co/iBMNNHjd&lt;/a&gt; &lt;em&gt;&lt;a href="http://search.twitter.com/search?q=%23AcAdv" title="#AcAdv" class=" "&gt;#AcAdv&lt;/a&gt;&lt;/em&gt;</content>
+		<updated>2011-10-08T01:08:55Z</updated>
+		<link type="image/png" href="http://a2.twimg.com/profile_images/1561242146/Laura_Pasquini_Photo_normal.jpg" rel="image"/>
+		<twitter:geo/>
+		<twitter:metadata>
+			<twitter:result_type>recent</twitter:result_type>
+		</twitter:metadata>
+		<twitter:source>&lt;a href="http://twitter-chrome.com" rel="nofollow"&gt;chrome-share&lt;/a&gt;</twitter:source>
+		<twitter:lang>en</twitter:lang>
+		<author>
+			<name>laurapasquini (Laura Pasquini)</name>
+			<uri>http://twitter.com/laurapasquini</uri>
+		</author>
+	</entry>
+</feed>

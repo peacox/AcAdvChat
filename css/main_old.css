@@ -1,0 +1,72 @@
+/*
+** Stylesheet for #Acadv Chat transcripts.  Created by Paul Cox.
+**
+*/
+
+body {
+	background-color: #DDDDDD;
+	color: black;
+	font-family: "Lucida Grande", Verdana, sans-serif;
+	font-size: 90%;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+#transcript-header{
+	background: none;
+	border-bottom: 1px solid #AAAAAA;
+	color: #000000;
+	font-weight: normal;
+	font-size: 150%;
+	margin: .25em;
+	padding-top: .75em;
+	padding-bottom: .17em;
+}
+
+/* formatting for CST time notice */
+#timenotice{
+	background: none;
+	color: #000000;
+	font-style: italic;
+	font-size: 85%;
+	padding: .25em;
+}
+
+/* Wrapper contains transript header and time notice, plus frame around content and footer. */
+#wrapper {
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	font-size: 90%;		
+	margin: 10px auto;
+	padding:0 15px;
+	width: 800px;
+}
+
+/* main transcript content, contained in table */
+#content {          
+	background-color: #FFFFFF;
+	font-size: 100%;
+	color: #000000;
+}
+
+a {
+	background: none;
+	color: #002BB8;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+a:visited { color: #002BB8;}
+a:active { color: #F20505; }
+a:hover { text-decoration: underline; }
+
+#footer {
+	background-color: #F7F7F7;
+	border:1px solid  #DDDDDD;
+	color: #666666;
+	height: 35px;
+	line-height: 35px;
+	margin: 17px 0 13px 0;
+	padding: 0 15px;
+	width: 770px;
+}
